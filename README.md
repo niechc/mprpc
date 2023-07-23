@@ -14,7 +14,7 @@ mprpc is a C++ RPC library using m(muduo) and p(protobuf)
 
 ### To build
 ```shell
-git clone 
+git clone https://github.com/niechc/mprpc.git
 mkdir build
 cd build
 cmake ..
